@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.form1{
+    /* background-color: blanchedalmond; */
+    align-content: center;
+    text-align: center;
+    border: 10px black;
+
+}
+.form1 input{
+   
+    background:rgb(223, 217, 209);
+    padding: 2px;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+
+
+}
+.form1 label{
+  font-size: 20pxpx;
+
+}
+.form1 textarea{
+    background:rgb(223, 217, 209);
+
+}
